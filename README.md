@@ -1,2 +1,2 @@
 # reading_time
-Estimating Reading time of a blog on any specified Website
+A simple chrome extension which estimated Reading time of a blog on any specified Website (exploring extensions development)
